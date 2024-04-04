@@ -27,6 +27,7 @@ The following **required** functionalities are completed:
 
 ## Video Walkthrough
 
+https://github.com/i-am-nolan25/Task-Project-7/assets/113712250/020743f4-25ee-4b66-bfa1-7e4481a486f9
 
 ## License
 
